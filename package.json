@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/assumenda-natus-distinctio-reiciendis",
-  "version": "21.35.430",
+  "version": "21.35.431",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -162,5 +162,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/assumenda-natus-distinctio-reiciendis/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
